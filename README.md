@@ -1,1 +1,1 @@
-initial commit
+Digital Image Graphics Course
